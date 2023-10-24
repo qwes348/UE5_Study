@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_inflearn\\part1\\hellounreal\\intermediate\\build\\win64\\unrealeditor\\inc\\hellounreal\\uht\\hellounreal.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_inflearn\\part1\\hellounreal\\intermediate\\build\\win64\\x64\\hellounrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_inflearn\\part1\\hellounreal\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hellounreal\\definitions.hellounreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
