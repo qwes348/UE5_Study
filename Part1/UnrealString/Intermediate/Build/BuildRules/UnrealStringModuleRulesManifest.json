@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\UE5_Inflearn\\Part1\\UnrealString\\Source\\UnrealString\\UnrealString.Build.cs",
+		"H:\\UE5_Inflearn\\Part1\\UnrealString\\Source\\UnrealString.Target.cs",
+		"H:\\UE5_Inflearn\\Part1\\UnrealString\\Source\\UnrealStringEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
