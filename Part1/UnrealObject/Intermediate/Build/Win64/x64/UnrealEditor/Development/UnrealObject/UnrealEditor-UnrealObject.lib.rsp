@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealObject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealObjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealObject\MyObject.gen.cpp.obj"
+"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealObject\UnrealObject.init.gen.cpp.obj"
+"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealObject\UnrealObject.cpp.obj"
+"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealObject\MyObject.cpp.obj"
+"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealObject\Default.rc2.res"
+/OUT:"H:\UE5_Inflearn\Part1\UnrealObject\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealObject\UnrealEditor-UnrealObject.lib"
