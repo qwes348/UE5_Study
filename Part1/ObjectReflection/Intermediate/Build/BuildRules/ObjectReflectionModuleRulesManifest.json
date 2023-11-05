@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\UE5_Inflearn\\Part1\\ObjectReflection\\Source\\ObjectReflection\\ObjectReflection.Build.cs",
+		"H:\\UE5_Inflearn\\Part1\\ObjectReflection\\Source\\ObjectReflection.Target.cs",
+		"H:\\UE5_Inflearn\\Part1\\ObjectReflection\\Source\\ObjectReflectionEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

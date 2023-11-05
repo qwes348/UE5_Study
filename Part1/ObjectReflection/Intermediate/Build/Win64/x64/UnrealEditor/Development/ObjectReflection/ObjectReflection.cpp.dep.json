@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ue5_inflearn\\part1\\objectreflection\\source\\objectreflection\\objectreflection.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ue5_inflearn\\part1\\objectreflection\\intermediate\\build\\win64\\x64\\objectreflectioneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "h:\\ue5_inflearn\\part1\\objectreflection\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\objectreflection\\definitions.objectreflection.h",
+            "h:\\ue5_inflearn\\part1\\objectreflection\\source\\objectreflection\\objectreflection.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
