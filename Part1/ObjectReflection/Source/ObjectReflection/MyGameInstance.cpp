@@ -2,6 +2,8 @@
 
 
 #include "MyGameInstance.h"
+#include "Student.h"
+#include "Teacher.h"
 
 // 생성자
 UMyGameInstance::UMyGameInstance()
@@ -37,6 +39,42 @@ void UMyGameInstance::Init()
 	// 클래스의 기본 값 출력하기 : 공백 문자 출력
 	//! 공백 문자가 출력되는 이유: 기본 값 초기화는 에디터 실행 시 진행된다. -> 에디터 재시작 필요
 	UE_LOG(LogTemp, Log, TEXT("학교 이름 기본값 : %s"), *GetClass()->GetDefaultObject<UMyGameInstance>()->SchoolName);
+
+	UE_LOG(LogTemp, Log, TEXT("============================================="));
+
+	// UObject클래스를 상속받은 클래스를 인스턴싱 하는 방법
+	UStudent* Student = NewObject<UStudent>();
+	UTeacher* Teacher = NewObject<UTeacher>();
+	
+	// getter, setter 활용
+	Student->SetName(TEXT("학생1"));
+	UE_LOG(LogTemp, Log, TEXT("새로운 학생 이름: %s"), *Student->GetName());		// 학생1
+
+	// 언리얼 리플렉션 시스템을 이용한 getter, setter
+	FString CurrentTeacherName;
+	FString NewTeacherName(TEXT("이득우"));
+	FProperty* NameProp = UTeacher::StaticClass()->FindPropertyByName(TEXT("Name"));
+	if (NameProp)
+	{
+		NameProp->GetValue_InContainer(Teacher, &CurrentTeacherName);
+		UE_LOG(LogTemp, Log, TEXT("현재 선생님 이름: %s"), *CurrentTeacherName);		// 이선생
+
+		NameProp->SetValue_InContainer(Teacher, &NewTeacherName);
+		UE_LOG(LogTemp, Log, TEXT("새로운 선생님 이름: %s"), *Teacher->GetName());	// 이득우
+	}
+
+	UE_LOG(LogTemp, Log, TEXT("============================================="));
+
+	Student->DoLesson();
+
+	// 언리얼 리플렉션 시스템을 이용한 함수 호출
+	// 함수를 찾아서 함수 포인터에 담음
+	UFunction* DoLessonFunc = Teacher->GetClass()->FindFunctionByName(TEXT("DoLesson"));
+	if (DoLessonFunc)
+	{
+		// 함수가 존재한다면 실행 두번째 인자는 파라미터 -> Unity의 Invoke()
+		Teacher->ProcessEvent(DoLessonFunc, nullptr);
+	}
 
 	UE_LOG(LogTemp, Log, TEXT("============================================="));
 }

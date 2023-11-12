@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ue5_inflearn\\part1\\objectreflection\\source\\objectreflection\\student.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ue5_inflearn\\part1\\objectreflection\\intermediate\\build\\win64\\x64\\objectreflectioneditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "h:\\ue5_inflearn\\part1\\objectreflection\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\objectreflection\\definitions.objectreflection.h",
+            "h:\\ue5_inflearn\\part1\\objectreflection\\source\\objectreflection\\student.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "h:\\ue5_inflearn\\part1\\objectreflection\\intermediate\\build\\win64\\unrealeditor\\inc\\objectreflection\\uht\\student.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
