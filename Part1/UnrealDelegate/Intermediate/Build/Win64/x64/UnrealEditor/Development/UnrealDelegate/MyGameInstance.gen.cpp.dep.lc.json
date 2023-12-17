@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealdelegate\\uht\\mygameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\x64\\unrealdelegateeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealdelegate\\definitions.unrealdelegate.h",
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\source\\unrealdelegate\\mygameinstance.h",
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealdelegate\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

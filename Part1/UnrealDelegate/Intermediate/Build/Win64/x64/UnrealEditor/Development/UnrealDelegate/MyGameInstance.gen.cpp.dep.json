@@ -1,0 +1,24 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealdelegate\\uht\\mygameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\x64\\unrealdelegateeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealdelegate\\definitions.unrealdelegate.h",
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\source\\unrealdelegate\\mygameinstance.h",
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\source\\unrealdelegate\\courseinfo.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealdelegate\\uht\\courseinfo.generated.h",
+            "h:\\ue5_inflearn\\part1\\unrealdelegate\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealdelegate\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
