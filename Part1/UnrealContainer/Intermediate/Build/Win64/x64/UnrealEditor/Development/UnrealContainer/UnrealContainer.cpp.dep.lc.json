@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ue5_inflearn\\part1\\unrealcontainer\\source\\unrealcontainer\\unrealcontainer.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ue5_inflearn\\part1\\unrealcontainer\\intermediate\\build\\win64\\x64\\unrealcontainereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "h:\\ue5_inflearn\\part1\\unrealcontainer\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealcontainer\\definitions.unrealcontainer.h",
+            "h:\\ue5_inflearn\\part1\\unrealcontainer\\source\\unrealcontainer\\unrealcontainer.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

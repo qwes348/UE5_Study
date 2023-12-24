@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\ue5_inflearn\\part1\\unrealcontainer\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealcontainer\\uht\\mygameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\ue5_inflearn\\part1\\unrealcontainer\\intermediate\\build\\win64\\x64\\unrealcontainereditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.h.pch",
+        "Includes": [
+            "h:\\ue5_inflearn\\part1\\unrealcontainer\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\unrealcontainer\\definitions.unrealcontainer.h",
+            "h:\\ue5_inflearn\\part1\\unrealcontainer\\source\\unrealcontainer\\mygameinstance.h",
+            "h:\\ue5_inflearn\\part1\\unrealcontainer\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealcontainer\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

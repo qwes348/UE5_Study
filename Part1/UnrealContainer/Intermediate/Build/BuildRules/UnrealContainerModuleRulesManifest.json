@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\UE5_Inflearn\\Part1\\UnrealContainer\\Source\\UnrealContainer\\UnrealContainer.Build.cs",
+		"H:\\UE5_Inflearn\\Part1\\UnrealContainer\\Source\\UnrealContainer.Target.cs",
+		"H:\\UE5_Inflearn\\Part1\\UnrealContainer\\Source\\UnrealContainerEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
