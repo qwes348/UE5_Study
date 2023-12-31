@@ -46,5 +46,11 @@
     <ClCompile Include="..\..\Source\UnrealContainer\MyGameInstance.cpp">
       <Filter>Source\UnrealContainer</Filter>
     </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealContainer\Student.h">
+      <Filter>Source\UnrealContainer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealContainer\Student.cpp">
+      <Filter>Source\UnrealContainer</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
