@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_inflearn\\part1\\unrealmemory\\source\\unrealmemory\\unrealmemory.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_inflearn\\part1\\unrealmemory\\intermediate\\build\\win64\\x64\\unrealmemoryeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_inflearn\\part1\\unrealmemory\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealmemory\\definitions.unrealmemory.h",
+            "e:\\ue5_inflearn\\part1\\unrealmemory\\source\\unrealmemory\\unrealmemory.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

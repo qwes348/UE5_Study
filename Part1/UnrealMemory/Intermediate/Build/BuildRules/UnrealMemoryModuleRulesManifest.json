@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE5_Inflearn\\Part1\\UnrealMemory\\Source\\UnrealMemory\\UnrealMemory.Build.cs",
+		"E:\\UE5_Inflearn\\Part1\\UnrealMemory\\Source\\UnrealMemory.Target.cs",
+		"E:\\UE5_Inflearn\\Part1\\UnrealMemory\\Source\\UnrealMemoryEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
