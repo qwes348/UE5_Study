@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealSerialization.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealSerializationEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealSerialization\MyGameInstance.gen.cpp.obj"
+"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealSerialization\UnrealSerialization.init.gen.cpp.obj"
+"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealSerialization\MyGameInstance.cpp.obj"
+"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealSerialization\UnrealSerialization.cpp.obj"
+"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealSerialization\Default.rc2.res"
+/OUT:"E:\UE5_Inflearn\Part1\UnrealSerialization\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealSerialization\UnrealEditor-UnrealSerialization.lib"

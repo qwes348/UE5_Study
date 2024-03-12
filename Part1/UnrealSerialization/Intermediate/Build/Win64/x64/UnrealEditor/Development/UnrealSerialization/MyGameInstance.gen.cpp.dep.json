@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealserialization\\uht\\mygameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\x64\\unrealserializationeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealserialization\\definitions.unrealserialization.h",
+            "e:\\ue5_inflearn\\part1\\unrealserialization\\source\\unrealserialization\\mygameinstance.h",
+            "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealserialization\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

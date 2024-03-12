@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE5_Inflearn\\Part1\\UnrealSerialization\\Source\\UnrealSerialization\\UnrealSerialization.Build.cs",
+		"E:\\UE5_Inflearn\\Part1\\UnrealSerialization\\Source\\UnrealSerialization.Target.cs",
+		"E:\\UE5_Inflearn\\Part1\\UnrealSerialization\\Source\\UnrealSerializationEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}
