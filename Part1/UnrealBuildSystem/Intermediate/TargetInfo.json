@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealBuildSystem",
+			"Path": "..\\Source\\UnrealBuildSystem.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealBuildSystemEditor",
+			"Path": "..\\Source\\UnrealBuildSystemEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

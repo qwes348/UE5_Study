@@ -7,6 +7,8 @@
         "Includes": [
             "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealserialization\\definitions.unrealserialization.h",
             "e:\\ue5_inflearn\\part1\\unrealserialization\\source\\unrealserialization\\mygameinstance.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
             "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealserialization\\uht\\mygameinstance.generated.h"
         ],
         "ImportedModules": [],

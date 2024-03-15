@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Part1/UnrealBuildSystem/Binaries/
+Part1/UnrealBuildSystem/Saved/Cooked/
+Part1/UnrealBuildSystem/Package/

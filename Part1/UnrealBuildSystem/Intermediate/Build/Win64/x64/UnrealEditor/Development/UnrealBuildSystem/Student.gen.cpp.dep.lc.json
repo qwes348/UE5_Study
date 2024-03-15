@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealbuildsystem\\uht\\student.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\x64\\unrealbuildsystemeditor\\development\\engine\\sharedpch.engine.cpp17.h.pch",
+        "Includes": [
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealbuildsystem\\definitions.unrealbuildsystem.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\source\\unrealbuildsystem\\student.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealbuildsystem\\uht\\student.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

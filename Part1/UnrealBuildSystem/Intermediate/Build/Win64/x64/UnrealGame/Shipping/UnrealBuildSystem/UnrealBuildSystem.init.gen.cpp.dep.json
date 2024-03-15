@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\unrealgame\\inc\\unrealbuildsystem\\uht\\unrealbuildsystem.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\x64\\unrealbuildsystem\\shipping\\engine\\sharedpch.engine.cpp17.h.pch",
+        "Includes": [
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\unrealbuildsystem\\definitions.unrealbuildsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

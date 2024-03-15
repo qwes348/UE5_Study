@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonutility\\module.commonutility.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\intermediate\\build\\win64\\x64\\unrealbuildsystemeditor\\development\\engine\\sharedpch.engine.cpp17.h.pch",
+        "Includes": [
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonutility\\definitions.commonutility.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\unrealeditor\\inc\\commonutility\\uht\\commonutility.init.gen.cpp",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\unrealeditor\\inc\\commonutility\\uht\\person.gen.cpp",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\source\\commonutility\\person.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\unrealeditor\\inc\\commonutility\\uht\\person.generated.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\unrealeditor\\inc\\commonutility\\uht\\personimpl.gen.cpp",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\source\\commonutility\\personimpl.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\intermediate\\build\\win64\\unrealeditor\\inc\\commonutility\\uht\\personimpl.generated.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\source\\commonutility\\commonutility.cpp",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\source\\commonutility\\commonutility.h",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\source\\commonutility\\person.cpp",
+            "e:\\ue5_inflearn\\part1\\unrealbuildsystem\\plugins\\gameutility\\source\\commonutility\\personimpl.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CommonUtility.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5_Inflearn\Part1\UnrealBuildSystem\Intermediate\Build\Win64\x64\UnrealBuildSystemEditor\Development\Engine\SharedPCH.Engine.Cpp17.h.obj"
+"E:\UE5_Inflearn\Part1\UnrealBuildSystem\Plugins\GameUtility\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonUtility\Module.CommonUtility.cpp.obj"
+"E:\UE5_Inflearn\Part1\UnrealBuildSystem\Plugins\GameUtility\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonUtility\Default.rc2.res"
+/OUT:"E:\UE5_Inflearn\Part1\UnrealBuildSystem\Plugins\GameUtility\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonUtility\UnrealEditor-CommonUtility.lib"

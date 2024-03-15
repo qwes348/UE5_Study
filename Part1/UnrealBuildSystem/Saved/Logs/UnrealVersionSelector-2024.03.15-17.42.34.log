@@ -1,0 +1,80 @@
+Log started at 03/15/2024 17:42:35 (2024-03-15T08:42:35Z)
+No config file at C:\Users\HOME\OneDrive\문서\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\HOME\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: E:\UE5_Inflearn\Part1\UnrealBuildSystem\Saved\Logs\UnrealVersionSelector-2024.03.15-17.42.34.log
+
+Setting temp directory to 'C:\Users\HOME\AppData\Local\Temp\UnrealBuildTool\445fdef2'
+    Registering build platform: UnrealBuildTool.AndroidPlatformFactory
+        Registering build platform: Android - buildable: False
+    Registering build platform: UnrealBuildTool.IOSPlatformFactory
+    Registering build platform: UnrealBuildTool.LinuxPlatformFactory
+        Registering build platform: Linux - buildable: False
+        Registering build platform: LinuxArm64 - buildable: False
+    Registering build platform: UnrealBuildTool.MacPlatformFactory
+    Registering build platform: UnrealBuildTool.TVOSPlatformFactory
+    Registering build platform: UnrealBuildTool.WindowsPlatformFactory
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+Found Windows 10 SDK version 10.0.16299.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.16299.0 at C:\Program Files (x86)\Windows Kits\10
+Found Windows 10 SDK version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Found Windows 10 SDK version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Found Universal CRT version 10.0.22621.0 at C:\Program Files (x86)\Windows Kits\10
+Win64 Installed SDK(s): MinVersion_Sdk=10.0.00000.0, MaxVersion_Sdk=10.9.99999.0, CurrentVersion_Sdk=10.0.22621.0, Version_AutoSdk=10.0.18362.0, CurrentVersion_AutoSdk=
+        Registering build platform: Win64 - buildable: True
+Log file: C:\Users\HOME\AppData\Local\UnrealBuildTool\Log_GPF.txt
+Deleting old log file: C:\Users\HOME\AppData\Local\UnrealBuildTool\Log_GPF-backup-2021.07.13-13.13.16.txt
+Resolved project argument E:/UE5_Inflearn/Part1/UnrealBuildSystem/UnrealBuildSystem.uproject to E:\UE5_Inflearn\Part1\UnrealBuildSystem\UnrealBuildSystem.uproject
+Registering project generator UnrealBuildTool.AndroidProjectGenerator for Android
+Registering project generator UnrealBuildTool.IOSProjectGenerator for IOS
+Skipping project file generator registration for IOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for Linux
+Registering project generator UnrealBuildTool.LinuxProjectGenerator for LinuxArm64
+Registering project generator UnrealBuildTool.MacProjectGenerator for Mac
+Skipping project file generator registration for Mac due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.TVOSProjectGenerator for TVOS
+Skipping project file generator registration for TVOS due to no valid BuildPlatform.
+Registering project generator UnrealBuildTool.WindowsProjectGenerator for Win64
+
+---   SDK INFO START   ---
+
+Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+See the log file for detailed information
+
+---   SDK INFO END   ---
+
+
+Generating VisualStudio2022 project files:
+Discovering modules, targets and source code for project...
+Updating E:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\ProjectFiles\PrimaryProjectName.txt: contents have changed. Saving previous version to E:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\ProjectFiles\PrimaryProjectName.txt.old.
+Updating E:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\ProjectFiles\PrimaryProjectPath.txt: contents have changed. Saving previous version to E:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\ProjectFiles\PrimaryProjectPath.txt.old.
+Found Visual Studio installation: C:\Program Files\Microsoft Visual Studio\2022\Community (Product=Microsoft.VisualStudio.Product.Community, Version=17.7.34202.233)
+Found Visual Studio installation: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community (Product=Microsoft.VisualStudio.Product.Community, Version=16.11.34114.132)
+Found Visual Studio toolchain: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822 (Family=14.37.32822, FamilyRank=4, Version=14.37.32825, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64, Error=False, Redist=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Redist\MSVC\14.36.32532)
+Detected supported platforms: Win64, Android, Linux, LinuxArm64
+Skipping E:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRules\UE5Rules.dll: File is installed
+Skipping E:\Program Files\Epic Games\UE_5.3\Engine\Intermediate\Build\BuildRules\UE5ProgramRules.dll: File is installed
+Generating target Editor for E:\UE5_Inflearn\Part1\UnrealBuildSystem\Intermediate\ProjectFiles\UE5.vcxproj
+Generating target Game for E:\UE5_Inflearn\Part1\UnrealBuildSystem\Intermediate\ProjectFiles\UE5.vcxproj
+Compiling E:\UE5_Inflearn\Part1\UnrealBuildSystem\Intermediate\Build\BuildRules\UnrealBuildSystemModuleRules.dll: Assembly does not exist
+Adding event matcher: CompileEventMatcher
+Adding event matcher: LinkEventMatcher
+Adding event matcher: MicrosoftEventMatcher
+Adding event matcher: XoreaxEventMatcher
+E:\UE5_Inflearn\Part1\UnrealBuildSystem\Source\UnrealBuildSystem\UnrealBuildSystem.Build.cs(9,9): error CS0103: The name 'publicDependencyModuleNames' does not exist in the current context
+E:\UE5_Inflearn\Part1\UnrealBuildSystem\Source\UnrealBuildSystemEditor.Target.cs(8,18): error CS0029: Cannot implicitly convert type 'UnrealBuildTool.TargetType' to 'UnrealBuildTool.TargetInfo'
+Expecting to find a type to be declared in a target rules named 'UnrealBuildSystemEditorTarget'.  This type must derive from the 'TargetRules' type defined by Unreal Build Tool.
+BuildException: Expecting to find a type to be declared in a target rules named 'UnrealBuildSystemEditorTarget'.  This type must derive from the 'TargetRules' type defined by Unreal Build Tool.
+   at UnrealBuildTool.RulesAssembly.CreateTargetRules(String TargetName, UnrealTargetPlatform Platform, UnrealTargetConfiguration Configuration, UnrealArchitectures Architectures, FileReference ProjectFile, CommandLineArguments Arguments, ILogger Logger, Boolean IsTestTarget, Boolean bSkipValidation, UnrealIntermediateEnvironment IntermediateEnvironment) in E:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\System\RulesAssembly.cs:line 780
+   at UnrealBuildTool.ProjectFileGenerator.AddProjectsForAllTargets(PlatformProjectGeneratorCollection PlatformProjectGenerators, List`1 AllGames, List`1 AllTargetFiles, String[] Arguments, List`1 EngineProjects, List`1 GameProjects, Dictionary`2 ProjectFileToUProjectFile, Dictionary`2 ProgramProjects, Dictionary`2 RulesAssemblies, ILogger Logger) in E:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2719
+   at UnrealBuildTool.ProjectFileGenerator.GenerateProjectFiles(PlatformProjectGeneratorCollection PlatformProjectGenerators, String[] Arguments, Boolean bCacheDataForEditor, ILogger Logger) in E:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 1023
+   at UnrealBuildTool.GenerateProjectFilesMode.ExecuteAsync(CommandLineArguments Arguments, ILogger Logger) in E:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\Modes\GenerateProjectFilesMode.cs:line 65
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in E:\Program Files\Epic Games\UE_5.3\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 659
+WriteFileIfChanged() wrote 2 changed files of 2 requested writes.
+Timeline:
+
+[ 0.000]
+[ 0.000](+4.344) <unknown>
+[ 4.344]

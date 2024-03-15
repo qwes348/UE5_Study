@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealBuildSystem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealBuildSystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealBuildSystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GameUtility">
+      <UniqueIdentifier>{25B02BA0-A84B-3B7C-A954-B98BB11D639B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GameUtility\Source">
+      <UniqueIdentifier>{3926944F-B3EE-3673-9727-D24B84EA4356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\GameUtility\Source\CommonUtility">
+      <UniqueIdentifier>{F41B6210-E7A2-348D-81F7-2041BE2B19CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\GameUtility\Source\CommonUtility\CommonUtility.Build.cs">
+      <Filter>Plugins\GameUtility\Source\CommonUtility</Filter>
+    </None>
+    <Filter Include="Plugins\GameUtility\Source\CommonUtility\Private">
+      <UniqueIdentifier>{B82ED97E-01BC-307E-A627-E5CE61CA246A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\GameUtility\Source\CommonUtility\Private\CommonUtility.cpp">
+      <Filter>Plugins\GameUtility\Source\CommonUtility\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GameUtility\Source\CommonUtility\Private\Person.cpp">
+      <Filter>Plugins\GameUtility\Source\CommonUtility\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\GameUtility\Source\CommonUtility\Private\PersonImpl.cpp">
+      <Filter>Plugins\GameUtility\Source\CommonUtility\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\GameUtility\Source\CommonUtility\Private\PersonImpl.h">
+      <Filter>Plugins\GameUtility\Source\CommonUtility\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\GameUtility\Source\CommonUtility\Public">
+      <UniqueIdentifier>{7C84D568-111D-3D6B-802D-F521BE1A320A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\GameUtility\Source\CommonUtility\Public\CommonUtility.h">
+      <Filter>Plugins\GameUtility\Source\CommonUtility\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\GameUtility\Source\CommonUtility\Public\Person.h">
+      <Filter>Plugins\GameUtility\Source\CommonUtility\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\GameUtility\GameUtility.uplugin">
+      <Filter>Plugins\GameUtility</Filter>
+    </None>
+    <Filter Include="Source\UnrealBuildSystem">
+      <UniqueIdentifier>{8CC1D2C9-787E-3588-BC14-EBCE30B0C346}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealBuildSystem\Student.cpp">
+      <Filter>Source\UnrealBuildSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealBuildSystem\Student.h">
+      <Filter>Source\UnrealBuildSystem</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealBuildSystem\UnrealBuildSystem.Build.cs">
+      <Filter>Source\UnrealBuildSystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealBuildSystem\UnrealBuildSystem.cpp">
+      <Filter>Source\UnrealBuildSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealBuildSystem\UnrealBuildSystem.h">
+      <Filter>Source\UnrealBuildSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -7,6 +7,8 @@
         "Includes": [
             "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealserialization\\definitions.unrealserialization.h",
             "e:\\ue5_inflearn\\part1\\unrealserialization\\source\\unrealserialization\\mygameinstance.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\misc\\packageaccesstracking.h",
             "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealserialization\\uht\\mygameinstance.generated.h",
             "e:\\ue5_inflearn\\part1\\unrealserialization\\source\\unrealserialization\\student.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
@@ -19,7 +21,16 @@
             "e:\\ue5_inflearn\\part1\\unrealserialization\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealserialization\\uht\\student.generated.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectconverter.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
-            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h"
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\coreuobject\\public\\uobject\\savepackage.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\serialization\\packagewriter.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iodispatcher.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iobuffer.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iocontainerid.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\io\\iostatus.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\ienginecrypto.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\tasks\\task.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\serialization\\compactbinary.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
