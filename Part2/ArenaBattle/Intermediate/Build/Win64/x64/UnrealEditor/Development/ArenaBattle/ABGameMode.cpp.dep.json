@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\game\\abgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\x64\\arenabattleeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\arenabattle\\definitions.arenabattle.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\game\\abgamemode.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abgamemode.generated.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\player\\abplayercontroller.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
