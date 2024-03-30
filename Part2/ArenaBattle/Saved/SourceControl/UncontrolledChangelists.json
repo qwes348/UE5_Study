@@ -12,7 +12,16 @@
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Default.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Jump.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
-				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Move.uasset"
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Move.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/CharacterControl/ABC_Quater.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/CharacterControl/ABC_Shoulder.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ShoulderMove.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ShoulderLook.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_QuaterMove.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Shoulder.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Quater.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABChacterPlayer.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset"
 			]
 		}
 	]
