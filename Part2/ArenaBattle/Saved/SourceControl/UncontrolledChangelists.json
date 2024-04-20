@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Maps/Step2.umap",
-				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Maps/Step3.umap",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Blueprint/BP_Fountain.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Jump.uasset",
@@ -21,6 +20,10 @@
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/ABP_ABCharacter.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/BS_IdleWalkRun1.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/AM_ComboAttack.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Attack.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/CharacterAction/ABA_ComboAttack.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/BS_IdleWalkRun.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Default.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
