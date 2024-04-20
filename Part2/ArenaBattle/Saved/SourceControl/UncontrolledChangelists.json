@@ -9,10 +9,7 @@
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Maps/Step3.umap",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Blueprint/BP_Fountain.uasset",
-				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Default.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Jump.uasset",
-				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
-				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Move.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/CharacterControl/ABC_Quater.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/CharacterControl/ABC_Shoulder.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ShoulderMove.uasset",
@@ -21,7 +18,13 @@
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Shoulder.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Quater.uasset",
 				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Blueprint/BP_ABChacterPlayer.uasset",
-				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset"
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_ChangeControl.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/ABP_ABCharacter.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/BS_IdleWalkRun1.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/Animation/BS_IdleWalkRun.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/IMC_Default.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Look.uasset",
+				"E:/UE5_Inflearn/Part2/ArenaBattle/Content/ArenaBattle/Input/Actions/IA_Move.uasset"
 			]
 		}
 	]
