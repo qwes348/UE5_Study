@@ -1,8 +1,12 @@
 E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Animation\ABAnimInstance.h
 E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABCharacterBase.h
-E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABCharacterControlData.h
-E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABCharacterPlayer.h
-E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Player\ABPlayerController.h
-E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Game\ABGameMode.h
-E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Prop\ABFountain.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Animation\AnimNotify_AttackHitCheck.h
 E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABComboActionData.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABCharacterPlayer.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Interface\ABAnimationAttackInterface.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Game\ABGameMode.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Player\ABPlayerController.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Prop\ABFountain.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABCharacterNonPlayer.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\ABCharacterControlData.h
+E:\UE5_Inflearn\Part2\ArenaBattle\Source\ArenaBattle\Character\MyABCharacterNonPlayer.h

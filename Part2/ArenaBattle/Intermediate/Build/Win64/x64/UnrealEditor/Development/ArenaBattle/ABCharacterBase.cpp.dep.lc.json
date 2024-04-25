@@ -15,6 +15,8 @@
             "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\interface\\abanimationattackinterface.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abanimationattackinterface.generated.h",
             "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abcharacterbase.generated.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
             "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
@@ -41,7 +43,10 @@
             "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\character\\abcharactercontroldata.h",
             "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abcharactercontroldata.generated.h",
             "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\character\\abcomboactiondata.h",
-            "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abcomboactiondata.generated.h"
+            "e:\\ue5_inflearn\\part2\\arenabattle\\intermediate\\build\\win64\\unrealeditor\\inc\\arenabattle\\uht\\abcomboactiondata.generated.h",
+            "e:\\ue5_inflearn\\part2\\arenabattle\\source\\arenabattle\\physics\\abcollision.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\damageevents.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\damageevents.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
